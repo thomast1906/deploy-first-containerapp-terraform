@@ -20,7 +20,7 @@ In this tutorial/lab, you will learn:
 
 To run this tutorial/lab successfully, please review each folder - inside each folder has a number of *.md files, starting from 1..2 etc. complete each one in number sequence 1...2...3...etc
 
-- [Review Prerequisities](https://github.com/thomast1906/deploy-first-containerapp-terraform/prerequisites.md)
+- [Review Prerequisities](https://github.com/thomast1906/deploy-first-containerapp-terraform/blob/main/prerequisites.md)
 
 - [Lab 1 - Initial Setup](https://github.com/thomast1906/deploy-first-containerapp-terraform/tree/main/1-setup)
     - Service principal creation
