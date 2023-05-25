@@ -7,7 +7,7 @@ variable "app_name" {
 variable "location" {
   type        = string
   description = "Location of Resources"
-  default     = "uksouth"
+  default     = "westus"
 }
 
 variable "environment" {
