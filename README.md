@@ -33,7 +33,7 @@ To run this tutorial/lab successfully, please review each folder - inside each f
     - Enabling GitHub Action to begin deploying Azure resources
     - Deploys Azure resources ready to begin deploying Container Application
 
-- [Lab 4 - Build & Deploy Application](https://github.com/thomast1906/deploy-first-containerapp-terraform/tree/main/4-Build-deploy-application-to-ACR)
+- [Lab 4 - Build & Deploy Application](https://github.com/thomast1906/deploy-first-containerapp-terraform/tree/main/4-build-deploy-application-to-acr)
     - Build and deploy test application to Azure Container Registry
 
 - [Lab 5 - Deploy Container App using Terraform](https://github.com/thomast1906/deploy-first-containerapp-terraform/tree/main/5-deploy-containerapp-terraform)
